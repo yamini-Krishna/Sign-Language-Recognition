@@ -12,16 +12,17 @@ scikit-learn==0.24.2
 Pillow==8.3.1
 ```
 
-### Explanation:
-- **tensorflow**: To build and train your neural network model for sign language recognition.
-- **keras**: High-level API for building deep learning models, integrated with TensorFlow.
-- **streamlit**: For creating the web app to display predictions and interact with users.
-- **opencv-python**: For image processing tasks, like resizing and handling hand gesture images.
-- **numpy**: To handle arrays and numerical computations.
-- **pandas**: For data manipulation (if you're working with structured data or CSVs).
-- **matplotlib**: To visualize data and model performance (if needed).
-- **scikit-learn**: Useful for additional ML utilities like train-test splits or metrics.
-- **Pillow**: A Python Imaging Library to process image data.
+## Libraries Used
+
+- TensorFlow: To build and train your neural network model for sign language recognition.
+- Keras: High-level API for building deep learning models, integrated with TensorFlow.
+- Streamlit: For creating the web app to display predictions and interact with users.
+- OpenCV-Python: For image processing tasks, like resizing and handling hand gesture images.
+- Numpy: To handle arrays and numerical computations.
+- Pandas: For data manipulation (if you're working with structured data or CSVs).
+- Matplotlib: To visualize data and model performance (if needed).
+- Scikit-learn: Useful for additional ML utilities like train-test splits or metrics.
+- Pillow: A Python Imaging Library to process image data.
 
 You can add more libraries if required based on your project's additional needs. To install all dependencies listed in the `requirements.txt`, users can run:
 
