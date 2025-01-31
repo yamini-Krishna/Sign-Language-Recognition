@@ -91,4 +91,4 @@ Sign language remains a crucial tool for individuals who are deaf or mute, and p
 ---
 
 ### **Conclusion**
-By following these steps, you will create an end-to-end sign language recognition system, from dataset preparation to model training and deployment in an interactive web app using Streamlit. This project will enable the recognition of hand gestures from sign language, providing an accessible interface for the deaf and mute community.
+By following these steps, we can create an end-to-end sign language recognition system, from dataset preparation to model training and deployment in an interactive web app using Streamlit. This project will enable the recognition of hand gestures from sign language, providing an accessible interface for the deaf and mute community.
