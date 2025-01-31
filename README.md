@@ -22,7 +22,7 @@ By automating the process of recognizing sign language, the project seeks to:
    
 Sign language remains a crucial tool for individuals who are deaf or mute, and projects like this aim to reduce the communication gap between them and those who do not know sign language.
 
-
+---
 
 ### **Detailed Steps for Sign Language Recognition Project**
 
